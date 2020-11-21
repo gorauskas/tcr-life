@@ -1,2 +1,9 @@
 # tcr-life
-Simple GOL written using TCR
+
+This was a simple exercise in using an agile development workflow technique: [TCR](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) or `test && (commit || revert)`
+
+The goal was to create a minimum Game Of Life written using C# in .NET Core 3.1 by creating the tests first and then code something small to allow the tests to pass or fail. 
+
+Redo the above until happy with the result. 
+
+All tests are passing, but my C# is rusty...
